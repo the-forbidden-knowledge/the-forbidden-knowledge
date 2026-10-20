@@ -1,6 +1,6 @@
 # The Forbidden Knowledge
 
-**Propósito:** apresentar o trabalho público e o método de the-forbidden-knowledge — para quem avalia contratar, colaborar ou auditar.
+**Propósito:** apresentar o trabalho público e o método de Kauã Silbershlach Parodes — para quem avalia contratar, colaborar ou auditar.
 
 **Julgamento:** este é o perfil de um analista de Cyber Threat Intelligence (CTI) que constrói software. A prova não está neste texto: está nos dez repositórios abaixo, com código e testes abertos à auditoria.
 
