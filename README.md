@@ -2,7 +2,7 @@
 
 **Propósito:** apresentar o trabalho público e o método de Kauã Silbershlach Parodes — para quem avalia contratar, colaborar ou auditar.
 
-**Julgamento:** este é o perfil de um analista de Cyber Threat Intelligence (CTI) que constrói software. A prova não está neste texto: está nos seis repositórios abaixo, com código e testes abertos à auditoria.
+**Julgamento:** este é o perfil de um analista de Cyber Threat Intelligence (CTI) que constrói software. A prova não está neste texto: está nos dez repositórios abaixo, com código e testes abertos à auditoria.
 
 **Impacto:** quem decide sobre este profissional decide com evidência. Cada afirmação das próximas seções aponta para um artefato público que a sustenta.
 
@@ -23,12 +23,16 @@ A IA opera comigo como multiplicador de execução, nunca como substituto de val
 
 | Projeto | O que faz | A prova |
 |---|---|---|
-| [muse-commander-mcp](https://github.com/the-forbidden-knowledge/muse-commander-mcp) | Agente em Python que expõe arquivos, processos e terminal de uma máquina por API no tailnet, com token por instalação | 19 tools, 57 testes, log de auditoria com cadeia de hashes |
+| [muse-commander-mcp](https://github.com/the-forbidden-knowledge/muse-commander-mcp) | Agente em Python que expõe arquivos, processos e terminal de uma máquina por API no tailnet, com token por instalação | 25 tools, 60 testes, log de auditoria com cadeia de hashes |
 | [cve-monitor](https://github.com/the-forbidden-knowledge/cve-monitor) | Base de CVEs com os críticos traduzidos para pt-br | Repositório público com a base e as traduções |
 | [web-vuln-scanner-elixir](https://github.com/the-forbidden-knowledge/web-vuln-scanner-elixir) | Scanner de vulnerabilidades web em Elixir com núcleo nativo em C++ | A BEAM orquestra; o C++ executa o trabalho pesado |
 | [cpp-elixir-nif-template](https://github.com/the-forbidden-knowledge/cpp-elixir-nif-template) | Template C++ + Elixir com NIF nativo via CMake | Base reutilizável dos projetos nativos |
 | [electron-blank-template](https://github.com/the-forbidden-knowledge/electron-blank-template) | Template Electron mínimo e endurecido, sem `loadURL` | Janela vazia em ~0,23s; `webPreferences` seguras por padrão |
 | [speak-spell-voice-synth](https://github.com/the-forbidden-knowledge/speak-spell-voice-synth) | Síntese de voz no estilo dos aparelhos dos anos 70 e 80, operada por IA | A voz robótica lendária reconstruída como software |
+| [muse-ida-reversing-pro](https://github.com/the-forbidden-knowledge/muse-ida-reversing-pro) | Laboratório de engenharia reversa com IDA Pro operado pelo Muse via MCP | Stack Elixir; estrutura publicada no padrão |
+| [muse-hostinger-console](https://github.com/the-forbidden-knowledge/muse-hostinger-console) | Terminal web da Hostinger operado pelo Muse: comandos no VPS sem sair do chat | Stack Elixir + C++; estrutura publicada no padrão |
+| [muse-roblox-studio-mcp](https://github.com/the-forbidden-knowledge/muse-roblox-studio-mcp) | Criação de jogos e scripts Luau para Roblox operada pelo Muse | Estrutura publicada; About e tags aplicados |
+| [muse-darkweb-intel-mcp](https://github.com/the-forbidden-knowledge/muse-darkweb-intel-mcp) | Template de CTI: da IOC à TTP, fazendo o adversário subir a pirâmide da dor | Amostra 01 publicada; 30.790 arquivos classificados da matéria-prima 1 |
 
 ## Formação: 42 formações aplicadas, não colecionadas
 
@@ -55,4 +59,4 @@ Duas limitações honestas: repositório público prova código e testes — nã
 
 GitHub: [@the-forbidden-knowledge](https://github.com/the-forbidden-knowledge) · LinkedIn: [kaua-cyber-investigator](https://www.linkedin.com/in/kaua-cyber-investigator/)
 
-*Fontes e método deste perfil: os seis repositórios públicos linkados, verificados nesta data, e o registro do autor no LinkedIn.*
+*Fontes e método deste perfil: os dez repositórios públicos linkados, verificados nesta data, e o registro do autor no LinkedIn.*
