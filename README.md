@@ -57,6 +57,6 @@ Duas limitações honestas: repositório público prova código e testes — nã
 
 ## Contato
 
-GitHub: [@the-forbidden-knowledge](https://github.com/the-forbidden-knowledge) · LinkedIn: [kaua-cyber-investigator](https://www.linkedin.com/in/kaua-cyber-investigator/)
+GitHub: [@the-forbidden-knowledge](https://github.com/the-forbidden-knowledge) · LinkedIn: [kaua-cyber-investigator](https://www.linkedin.com/in/kaua-cyber-investigator/) · WhatsApp: [+55 48 9217-5459](https://wa.me/554892175459) · YouTube: [@kauasilbershlachparodes](https://www.youtube.com/@kauasilbershlachparodes)
 
 *Fontes e método deste perfil: os dez repositórios públicos linkados, verificados nesta data, e o registro do autor no LinkedIn.*
